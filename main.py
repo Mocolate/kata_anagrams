@@ -1,3 +1,7 @@
-# Write your code here
 
-print("Hi! This works")
+
+def method():
+    print("hi, this works!")
+
+
+# Write your code here!
